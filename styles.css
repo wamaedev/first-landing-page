@@ -44,6 +44,7 @@ a {
 .secondary-text {
   font-size: 18px;
   color: #E5E7EB;
+  display: inline;
 }
 
 .main-text {
